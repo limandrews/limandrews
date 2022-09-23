@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I am a Full Stack Developer. Dedicated to refining my skills
+and learning new technologies in order to create and build world class
+products. I have experience in full stack development and love working on
+fun and challenging projects.
 <!--
 **limandrews/limandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

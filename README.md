@@ -6,6 +6,7 @@ fun and challenging projects.
 
 ![mvc-diagram](https://user-images.githubusercontent.com/106944268/192042110-52096918-9ad5-4468-ad8c-c51d4eab2525.png)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=limandrews&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **limandrews/limandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

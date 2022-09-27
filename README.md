@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Full Stack Developer. Dedicated to refining my skills
+Dedicated to refining my skills
 and learning new technologies in order to create and build world class
 products. I have experience in full stack development and love working on
 fun and challenging projects.

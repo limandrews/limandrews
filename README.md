@@ -1,8 +1,4 @@
 ### Hi there 👋
-Dedicated to refining my skills
-and learning new technologies in order to create and build world class
-products. I have experience in full stack development and love working on
-fun and challenging projects.
 
 ![mvc-diagram](https://user-images.githubusercontent.com/106944268/192042110-52096918-9ad5-4468-ad8c-c51d4eab2525.png)
 
